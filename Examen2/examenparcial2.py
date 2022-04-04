@@ -1,5 +1,6 @@
 from clasenumeros import numeros
 
+#Nada mas agregue un comentario de tranqui
 objLE=numeros()
 objLE.generarNumeros()
 objLE.mostrarLista()
